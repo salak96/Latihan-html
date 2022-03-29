@@ -1,0 +1,54 @@
+body {
+    background-image: url("img/img1.jpg");
+    background-size: cover;
+    height: 500px;
+    background-position: top;
+    background-repeat: no-repeat;
+    position: relative;
+}   
+body {
+    font-family: 'Fazztrack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: #FFFFFF;
+},
+p.solid {border-style: solid;}
+/* Menggunakan skema Income Share Agreement (ISA) sehingga tidak ada biaya pendidikan di depan. Memberikan skill yang dibutuhkan sesuai standar industri. Menyalurkan lulusan Fazztrack ke perusahaan rekanan Fazztrack. */
+
+
+position: absolute;
+width: 1054.93px;
+height: 120px;
+left: 201.1px;
+top: 460px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B57A7; //blue
+
+}
+
+/* Kurikulum yang mendukung. Disalurkan kerja. Income sharing agreement. */
+
+position: absolute;
+width: 814.8px;
+height: 90px;
+left: 164px;
+top: 736px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #EF6807;//orange
+
+}
